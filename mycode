@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Website Title</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+    }
+    
+    nav {
+      background-color: #666;
+      padding: 10px;
+    }
+    
+    main {
+      padding: 20px;
+    }
+    
+    section {
+      background-color: #fff;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    .powered-by {
+      background-color: #e6f7ff;
+      border-radius: 5px;
+      padding: 20px;
+      text-align: center;
+      color: #337ab7;
+    }
+    
+    .powered-by h2 {
+      font-size: 24px;
+      color: #337ab7;
+      margin-bottom: 10px;
+    }
+    
+    .powered-by p {
+      color: #555;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Your Website</h1>
+  </header>
+  
+  <nav>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+  
+  <main>
+    <section>
+      <h2>Article: The Toll Rises from Russian Shelling Amid Flood Evacuations in Kherson</h2>
+      <p>Biden and Sunak vow that their countries will continue to support Ukraine.</p>
+      <p>The dam’s destruction isn’t expected to affect Ukraine’s counteroffensive.</p>
+      <p>In a call, Putin and the leader of South Africa affirm diplomatic ties and talk Ukraine.</p>
+      <p>Ukraine’s charities, hardened by war, respond quickly to the flooding.</p>
+      <p>‘It is apocalyptic, but we are alive’: A Kherson resident says he has no intention of leaving.</p>
+    </section>
+    
+    <section>
+      <h2>Services</h2>
+      <ul>
+        <li>Web Design</li>
+        <li>Graphic Design</li>
+        <li>SEO Optimization</li>
+        <li>Mobile App Development</li>
+      </ul>
+    </section>
+  </main>
+  
+  <footer>
+    <p>&copy; 2023 Your Website. All rights reserved.</p>
+  </footer>
+  
+  <section class="powered-by">
+    <h2>Powered by Sourabh Dekate</h2>
+    <p>Awesome Web Development</p>
+  </section>
+</body>
+</html>
+
